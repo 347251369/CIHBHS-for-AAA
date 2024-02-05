@@ -1,0 +1,3 @@
+Myicofoam.C
+
+EXE = $(FOAM_APPBIN)/Myicofoam
