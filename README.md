@@ -1,0 +1,1 @@
+You, Y.; Zhou, F.; Yue, Y. et al. The classical iterative HHL-based hemodynamic simulation quantum linear equation algorithm for abdominal aortic aneurysm. Eur. Phys. J. Spec. Top. 2024: 1-11. https://doi.org/10.1140/epjs/s11734-024-01383-0
